@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asharaf007
-- 👀 I’m interested in remote developing bootcamp.
+- 👀 I’m interested in DevOps bootcamp.
 - 🌱 I’m currently learning computer enginnering.
 - 📫 How to reach me:
 - EMAIL- 718romanempire@gmail.com
